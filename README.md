@@ -24,6 +24,15 @@ Trabajo desarrollando proyectos web y actualmente estoy ampliando conocimientos 
 
 ---
 
+## Cybersecurity Portfolio
+
+- TryHackMe Top 1%
+- eJPT Certified
+- Cisco CyberOps Associate
+- CCNA
+
+---
+
 # 🌐 Proyectos Web
 
 ## Webs propias
